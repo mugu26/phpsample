@@ -40,9 +40,9 @@ CREATE TABLE `student` (
 --
 
 INSERT INTO `student` (`id`, `name`, `department`, `age`) VALUES
-(1, 'Ahammed Imtiaze', 'BCSE', 23),
-(2, 'Amir Ekram', 'BSME', 23),
-(3, 'Ahsanul Haque', 'Physics', 22);
+(1, 'Mugu', 'Msc', 30),
+(2, 'Prince', 'Msc', 30),
+(3, 'Jahir', 'BE', 30);
 
 --
 -- Indexes for dumped tables
